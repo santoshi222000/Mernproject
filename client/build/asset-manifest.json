@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19126866.css",
+    "main.js": "/static/js/main.b59af762.js",
+    "static/media/trade1.jpg": "/static/media/trade1.5dbc808a83b148742cf9.jpg",
+    "static/media/trade3.jpg": "/static/media/trade3.526463d205a8bcc1f741.jpg",
+    "static/media/b2.jpg": "/static/media/b2.d49ea7393d386f813b5e.jpg",
+    "static/media/b1.jpg": "/static/media/b1.b31df8fe75e033b622c4.jpg",
+    "static/media/ba.jpg": "/static/media/ba.ae620659e06f1536ab07.jpg",
+    "static/media/b3.jpg": "/static/media/b3.bb92ae34f32a8d86e0ff.jpg",
+    "static/media/longterm.jpg": "/static/media/longterm.1e5842c357e18a810ade.jpg",
+    "static/media/banner1.png": "/static/media/banner1.1aa29fbead0cfbf2e709.png",
+    "static/media/aa.png": "/static/media/aa.5d0673d9858ff5e37973.png",
+    "static/media/socialMedia.png": "/static/media/socialMedia.3f155d7835f36ae7bf19.png",
+    "static/media/xy.png": "/static/media/xy.602e289084e7bd960337.png",
+    "static/media/pin.png": "/static/media/pin.f8d746f2300848177163.png",
+    "static/media/400 PX.png": "/static/media/400 PX.5c6da6a711499272ed6a.png",
+    "static/media/logo.png": "/static/media/logo.81405271d4d69add6e2e.png",
+    "static/media/300 PX.png": "/static/media/300 PX.bdbb28d0ad675b0da3ed.png",
+    "static/media/courselogo.jpg": "/static/media/courselogo.73ec0c09e070837a13e8.jpg",
+    "static/media/instructor.webp": "/static/media/instructor.51d2578c473084cd1a04.webp",
+    "static/media/menu.png": "/static/media/menu.b641b2ee66cc66c4507a.png",
+    "index.html": "/index.html",
+    "main.19126866.css.map": "/static/css/main.19126866.css.map",
+    "main.b59af762.js.map": "/static/js/main.b59af762.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19126866.css",
+    "static/js/main.b59af762.js"
+  ]
+}
